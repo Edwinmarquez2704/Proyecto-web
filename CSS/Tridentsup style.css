@@ -1,0 +1,54 @@
+﻿body{
+	background:url(../imagenes/FondoTridentsup.jpg);
+	background-attachment:fixed;
+	font-size:1.1rem;
+	line-height:1.3em;
+	margin:0;
+}
+p{
+	margin-bottom:1.6em;
+	color:#fff;
+}
+h2{
+	color:#fff;
+}
+.container{
+	width:90%;
+	max-width:1000px;
+	margin:0 auto;
+}
+svg{
+	float:right;
+	margin:5px; 
+}
+.Titulo{
+	background:#c5a14e;
+	padding:1.0em;
+	font-family:Impact, Charcoal, sans-serif;
+	font-size:;
+	width:50%;
+	position:relative;
+	top:20px;
+	float:right;
+	left:10%;
+}
+a{
+	text-decoration:none;
+	color:#fff;
+	display:inline;
+}
+a:hover{
+	color:#fff;
+}
+img{
+	position:relative;
+	top:40px;
+}
+nav{
+	
+}
+.footer{
+	display:inline-block;
+	background:#c5a14e;
+	width:25%;
+}
